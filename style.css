@@ -22,3 +22,8 @@ a{
     color: green;
     size: 20px;
 }
+article{
+    border: 6px double brown;
+    border-radius: 15px;
+
+}
