@@ -1,0 +1,24 @@
+#header {
+    height: 10vh;
+    background-color: blue;
+    color: white;
+}
+#footer{
+    height: 13vh;
+    background-color: black;
+    color: red;
+}
+h1{
+    color: red;
+    text-shadow: 2px 2px black;
+}
+.one{
+    color: orange;
+}
+.two{
+    color: yellow;
+}
+a{
+    color: green;
+    size: 20px;
+}
